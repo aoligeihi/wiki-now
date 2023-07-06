@@ -1,1 +1,1 @@
-export default []
+export default [{"text":"linux命令","link":"/1"}]

@@ -1,1 +1,1 @@
-export default ''
+export default 'https://github.com/aoligeihi/wiki-now'
